@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIY</title>
+    <description>Avec le site DIY vous pourrez découvrir nos recettes et pourquoi pas partager les votre.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Aug 2016 17:10:14 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2016 17:10:14 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Recette Crumble</title>
+        <description>&lt;p&gt;Une des recettes les plus appréciées, tellement parfumée que tout le monde veut y goûter. La recette crumble à des notes de pommes mais aussi un côtés biscuité ce qui en fait certainement notre recette la plus gourmande. La préparation de cette recette nécéssite les arômes de tarte aux pommes, vanille custard et frangipane ainsi que votre base de e-liquide.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/crumble.jpg&quot; alt=&quot;Crumble&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;crumble&quot;&gt;Crumble&lt;/h1&gt;
+&lt;p&gt;Après avoir préparer votre base de e-liquide, vous pouvez y ajouter:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;70 gouttes de l’arôme tarte aux pommes&lt;/li&gt;
+  &lt;li&gt;20 gouttes de l’arôme vanille custard&lt;/li&gt;
+  &lt;li&gt;6 gouttes de l’arôme frangipane&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il ne vous reste plus qu’à laissez le liquide s’imprégner des arômes pendant au minimum une semaine et votre liquide sera prêt. Bien entendu libre à vous de la modifier selon vos gouts ou d’y ajouter un autre arôme, c’est la tout l’intérêt du DIY. N’hésitez pas a poster un commentaire lorsque vous l’aurez gouté, votre avis nous intéresse.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Jul 2016 23:50:38 +0200</pubDate>
+        <link>http://yourdomain.com/Crumble/</link>
+        <guid isPermaLink="true">http://yourdomain.com/Crumble/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recette Pomme d&#39;amour 2.0</title>
+        <description>&lt;p&gt;Comment oublié cette odeur de pomme sucré qui envahissait nos narines lorsque nous traversions la fête forraine. Vous allez enfin pouvoir retrouver le plaisir de la pomme d’amour sans avoir du sucre plein les doigts.     Pour conféctionner cette recette, rien de plus simple. Il vous faut de l’arôme vanille et pomme, de l’ethyl maltol, sans oublier votre base de e-liquide.&lt;/p&gt;
+
+&lt;p&gt;Cette préparation est faite pour un dosage 40% PG / 60% VG, et pour 30 ml de liquide.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/candy_apple.jpg&quot; alt=&quot;Pomme d&#39;amour&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;pomme-damour-20&quot;&gt;Pomme d’amour 2.0&lt;/h1&gt;
+
+&lt;p&gt;Après avoir préparer votre base de e-liquide, vous pouvez y ajouter:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;70 gouttes de l’arôme pomme (pomme rouge)&lt;/li&gt;
+  &lt;li&gt;30 gouttes de l’arôme vanille&lt;/li&gt;
+  &lt;li&gt;30 gouttes de l’additfi Ethyl Maltol&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il ne vous reste plus qu’à laissez le liquide s’imprégner des arômes pendant au minimum cinq jours et votre liquide sera prêt. Bien entendu libre à vous de la modifier selon vos gouts ou d’y ajouter un autre arôme, c’est la tout l’intérêt du DIY. N’hésitez pas a poster un commentaire lorsque vous l’aurez gouté, vos avis nous intéresse.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Jul 2016 23:50:38 +0200</pubDate>
+        <link>http://yourdomain.com/Pomme-amour/</link>
+        <guid isPermaLink="true">http://yourdomain.com/Pomme-amour/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
